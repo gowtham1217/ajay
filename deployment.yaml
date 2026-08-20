@@ -19,6 +19,6 @@ spec:
     spec:
       containers:
         - name: cat-deploy
-          image: kgowtham12/gangu:v1
+          image: kgowtham12/harika12:v1
           ports:
             - containerPort: 8080
